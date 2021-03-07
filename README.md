@@ -1,22 +1,48 @@
 # **CG-TP1**
 
-####**Trabalho de Computação Gráfica do Segundo Período de Engenharia de Computação do CEFET-MG**
-
+##### **Trabalho de Computação Gráfica do Segundo Período de Engenharia de Computação do CEFET-MG**
+---
 >## Integrantes do grupo:
 >####	Fernando Lorenzeto Rodrigues
 >####	Rafael Assunção De Ladeira Torga
 >####	Rafael Augusto de Souza
+---
+# Instruções para compilação e execução:
 
-=======================================================================
-Instruções para compilação e execução:
+>## Importante ressaltar que é necessário verificar se seus programas seguem atualizados antes de prosseguir:
+> sudo apt-get update
+> sudo apt-get upgrade
 
-.
-.
-.
+## Bibliotecas utilizadas no desenvolvimento do Jogo
 
-=======================================================================
+**As bibliotecas podem ser instaladas via comando _make install-libs__**
 
-Lista de itens adicionais implementados:
+### SDL e SDL_mixer: (para músicas apenas)
+>	sudo apt-get install libsdl1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev 
+### FreeGlut
+>       sudo apt-get install freeglut3-dev
+### Glew
+>       sudo apt-get install libglew-dev
+### SOIL: 
+>	sudo apt-get install libsoil-dev
+
+## Execução
+>### Existem dois modos:
+> Via Terminal manualmente onde você irá utilzar o comando **cd/diretório** e vai colocar o diretório/pasta onde foi baixado o jogo. **Ex: cd 'Área de Trabalho'/tp1**
+> Após isso você deve digitar o comando gcc main.c -lglut -lGLU -lGL -lGLEW -lSOIL -lSDL -lSDLmain -lSDL_mixer para compilar o programa
+e em seguida ./a.out para executar.
+
+>### O outro modo é via terminal porém utilzando os comandos make:
+### Instala todas as bibliotecas necessárias.
+> make install-libs 
+### Compila o Game
+> make all
+### Executa o Game
+> make run
+### Limpa o arquivo compilado
+> make clean
+---
+# Lista de itens adicionais implementados:
 
 	Relativas a texturas e gráficos:
 
@@ -49,8 +75,14 @@ Lista de itens adicionais implementados:
 	Outras funcionalidades:
 
          	1-Sons (até 12%). Colocar efeitos sonoros e música de fundo no seu jogo
+		
 
          	2-Telas (até 12%): faça um jogo completo, ou seja, implemente telas de splash screen,
 			menu inicial, instruções, créditos, opções, game over, etc
+			
+># Algumas telas do Game Contem Easter Eggs, divirta-se.
+			
+>*As imagens e sons utilzados no game podem ser encontradas nesses sites: (Tudo com free download).
+Músicas e efeitos sonoros: https://mixkit.co/free-sound-effects
+Imagens: https://www.wallpaperflare.com/music-stars-background-80s-neon-80-s-synth-retrowave-wallpaper-bdlfo
 
-=======================================================================
