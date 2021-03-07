@@ -80,9 +80,9 @@ e em seguida ./a.out para executar.
          	2-Telas (até 12%): faça um jogo completo, ou seja, implemente telas de splash screen,
 			menu inicial, instruções, créditos, opções, game over, etc
 			
->### **__Algumas telas do Game Contem Easter Eggs, divirta-se.__*
+>### **__Algumas telas do Game Contem Easter Eggs, divirta-se.__**
 			
->*As imagens e sons utilzados no game podem ser encontradas nesses sites: (Tudo com free download).
->Músicas e efeitos sonoros: https://mixkit.co/free-sound-effects
->Imagens: https://www.wallpaperflare.com/music-stars-background-80s-neon-80-s-synth-retrowave-wallpaper-bdlfo
+>#####*As imagens e sons utilzados no game podem ser encontradas nesses sites: (Tudo com free download).
+>#####Músicas e efeitos sonoros: https://mixkit.co/free-sound-effects
+>#####Imagens: https://www.wallpaperflare.com/music-stars-background-80s-neon-80-s-synth-retrowave-wallpaper-bdlfo
 
