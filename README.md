@@ -20,9 +20,9 @@
 ### SDL e SDL_mixer: (para músicas apenas)
 >	sudo apt-get install libsdl1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev 
 ### FreeGlut
->       sudo apt-get install freeglut3-dev
+>	sudo apt-get install freeglut3-dev
 ### Glew
->       sudo apt-get install libglew-dev
+>	sudo apt-get install libglew-dev
 ### SOIL: 
 >	sudo apt-get install libsoil-dev
 
