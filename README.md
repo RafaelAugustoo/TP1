@@ -55,8 +55,8 @@ e em seguida ./a.out para executar.
 
         	4-Outros objetos ou cenário animados (2%)
 
-      	 	5-Fundo lindão e com movimento/animação (até 6%): em vez de um fundo com uma simples
-			cor, colocar imagens ou até umas estrelinhas piscando aleatoriamente.
+		5-Fundo lindão e com movimento/animação (até 6%): em vez de um fundo com uma simples 
+		cor, colocar imagens ou até umas estrelinhas piscando aleatoriamente.
 
 
 	Relativas ao jogo:
