@@ -87,4 +87,4 @@ e em seguida ./a.out para executar.
 >#####	Imagens: https://www.wallpaperflare.com/music-stars-background-80s-neon-80-s-synth-retrowave-wallpaper-bdlfo
 
 # **VIDEO**
-(http://img.youtube.com/vi/LqFkw0xMnuM/0.jpg)](https://youtu.be/LqFkw0xMnuM)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/LqFkw0xMnuM/0.jpg)](https://youtu.be/LqFkw0xMnuM)
