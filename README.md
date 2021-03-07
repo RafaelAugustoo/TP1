@@ -10,8 +10,8 @@
 # Instruções para compilação e execução:
 
 >## Importante ressaltar que é necessário verificar se seus programas seguem atualizados antes de prosseguir:
-> sudo apt-get update
-> sudo apt-get upgrade
+>	sudo apt-get update
+>	sudo apt-get upgrade
 
 ## Bibliotecas utilizadas no desenvolvimento do Jogo
 
@@ -34,13 +34,13 @@ e em seguida ./a.out para executar.
 
 >### O outro modo é via terminal porém utilzando os comandos make:
 ### Instala todas as bibliotecas necessárias.
-> make install-libs 
+>	make install-libs 
 ### Compila o Game
-> make all
+>	make all
 ### Executa o Game
-> make run
+>	make run
 ### Limpa o arquivo compilado
-> make clean
+>	make clean
 ---
 # Lista de itens adicionais implementados:
 
