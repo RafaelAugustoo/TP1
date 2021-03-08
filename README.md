@@ -61,7 +61,7 @@ e em seguida ./a.out para executar.
 
 	Relativas ao jogo:
 
-		1.Fases infinitas (4%): gere uma nova fase toda vez que o jogador morrer ou que ele tenha êxito em aterrisar
+		1.Fases infinitas (4%): gere uma nova fase toda vez que o jogador morrer ou que ele tenha êxito em aterrisar.
 
 	Relativas à nave:
 
