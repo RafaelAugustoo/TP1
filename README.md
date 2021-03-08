@@ -18,7 +18,9 @@
 **As bibliotecas podem ser instaladas via comando _make install-libs__**
 
 ### SDL e SDL_mixer: (para músicas apenas)
->	sudo apt-get install libsdl1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev 
+>	sudo apt-get install libsdl1.2-dev 
+>	sudo apt-get install libsdl-mixer1.2-dev 
+>	sudo apt-get install libsdl-ttf2.0-dev 
 ### FreeGlut
 >	sudo apt-get install freeglut3-dev
 ### Glew
