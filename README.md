@@ -88,5 +88,6 @@ e em seguida ./a.out para executar.
 
 # **VIDEO**
 > Link do vídeo https://youtu.be/LqFkw0xMnuM
+---
 > [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/LqFkw0xMnuM/0.jpg)](https://youtu.be/LqFkw0xMnuM)
 
